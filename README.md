@@ -14,7 +14,7 @@ English / [简体中文](./README_CN.md)
 <a href="https://trendshift.io/repositories/5973" target="_blank"><img src="https://trendshift.io/api/badge/repositories/5973" alt="ChatGPTNextWeb%2FChatGPT-Next-Web | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 
-✨ Light and Fast AI Assistant,with Claude, DeepSeek, GPT4 & Gemini Pro support. 
+✨ Light and Fast AI Assistant, with Claude, DeepSeek, GPT4 & Gemini Pro support.
 
 [![Saas][Saas-image]][saas-url]
 [![Web][Web-image]][web-url]
@@ -48,7 +48,7 @@ English / [简体中文](./README_CN.md)
 ![Github iOS Image](https://github.com/user-attachments/assets/e0aa334f-4c13-4dc9-8310-e3b09fa4b9f3)
 
  
-## 🫣 NextChat Support MCP  ! 
+## 🫣 NextChat Supports MCP!
 > Before build, please set env ENABLE_MCP=true
 
 <img src="https://github.com/user-attachments/assets/d8851f40-4e36-4335-b1a4-ec1e11488c7e"/>

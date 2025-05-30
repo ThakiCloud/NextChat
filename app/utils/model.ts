@@ -200,7 +200,7 @@ export function isModelAvailableInServer(
 ) {
   const fullName = `${modelName}@${providerName}`;
   const modelTable = collectModelTable(DEFAULT_MODELS, customModels);
-  return modelTable[fullName]?.available === false;
+  return modelTable[fullName]?.available !== false;
 }
 
 /**
